@@ -58,3 +58,29 @@ p {
 .categoria h2{
     color: rgb( 139, 133, 4);
 }
+
+.categoria-videos2 {
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+}
+
+.categoria2 {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.categoria-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.categoria-videos img:hover{
+    opacity: 1.0;
+    border: 1px solid goldenrod;
+}
+
+.categoria h3{
+    color: rgb( 139, 133, 4);
+}
