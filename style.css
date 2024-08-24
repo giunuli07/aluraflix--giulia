@@ -71,12 +71,12 @@ p {
     margin-top: 50px;
 }
 
-.categoria-videos img {
+.categoria-videos2 img {
     opacity: 0.5;
     height: 200px;
 }
 
-.categoria-videos img:hover{
+.categoria-videos2 img:hover{
     opacity: 1.0;
     border: 1px solid goldenrod;
 }
