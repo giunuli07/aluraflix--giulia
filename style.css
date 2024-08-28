@@ -110,3 +110,29 @@ color: rgb( 139, 133, 4);
 .categoria3 h4{
     color: rgb( 139, 133, 4);
     }
+
+.categoria-videos4 {
+    display: flex;
+    overflow-x: auto;
+    gap: 20px;
+}
+
+.categoria4 {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.categoria-videos4 img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.categoria-videos4 img:hover{
+    opacity: 1.0;
+    border: 1px solid goldenrod;
+}
+
+.categoria4 h5{
+    color: rgb( 139, 133, 4);
+    }
